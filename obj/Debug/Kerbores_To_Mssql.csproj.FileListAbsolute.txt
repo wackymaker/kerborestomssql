@@ -1,0 +1,7 @@
+C:\Users\wacky\Desktop\code\csharp\Kerbores_To_Mssql\bin\Debug\Kerbores_To_Mssql.exe.config
+C:\Users\wacky\Desktop\code\csharp\Kerbores_To_Mssql\bin\Debug\Kerbores_To_Mssql.exe
+C:\Users\wacky\Desktop\code\csharp\Kerbores_To_Mssql\bin\Debug\Kerbores_To_Mssql.pdb
+C:\Users\wacky\Desktop\code\csharp\Kerbores_To_Mssql\obj\Debug\Kerbores_To_Mssql.csproj.AssemblyReference.cache
+C:\Users\wacky\Desktop\code\csharp\Kerbores_To_Mssql\obj\Debug\Kerbores_To_Mssql.csproj.CoreCompileInputs.cache
+C:\Users\wacky\Desktop\code\csharp\Kerbores_To_Mssql\obj\Debug\Kerbores_To_Mssql.exe
+C:\Users\wacky\Desktop\code\csharp\Kerbores_To_Mssql\obj\Debug\Kerbores_To_Mssql.pdb
