@@ -1,5 +1,5 @@
-# KerborestToMSSQL
-**KerborestToMSSQL** 是一款轻量级工具，旨在使用当前域用户的本地 Kerberos 认证连接到 MSSQL 数据库。它不需要密码、用户名或哈希值，并允许在同一域内的任何数据库服务上执行命令查询。
+# KerboresToMSSQL
+**KerboresToMSSQL** 是一款轻量级工具，旨在使用当前域用户的本地 Kerberos 认证连接到 MSSQL 数据库。它不需要密码、用户名或哈希值，并允许在同一域内的任何数据库服务上执行命令查询。
 该工具可以编译为独立的二进制文件，适用于通过web攻击进入内网环境具备用户shell权限但是没有凭证的数据库访问。
 # 功能
 1、使用当前域用户的 Kerberos 凭据连接 MSSQL 数据库
@@ -28,8 +28,8 @@ SELECT user_name();
 SELECT @@VERSION;
 ```
 ---
-# KerborestToMSSQL
-KerborestToMSSQL is a lightweight tool designed for connecting to MSSQL databases using the local Kerberos authentication of the current domain user. It requires no password, username, or hash, and allows command execution on any database service within the same domain.
+# KerboresToMSSQL
+KerboresToMSSQL is a lightweight tool designed for connecting to MSSQL databases using the local Kerberos authentication of the current domain user. It requires no password, username, or hash, and allows command execution on any database service within the same domain.
 This tool can be compiled into a standalone binary and is ideal for use within domain environments.
 # Features
 1,Connect to MSSQL databases using current domain user’s Kerberos ticket
